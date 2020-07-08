@@ -1,0 +1,117 @@
+body{
+    background-color: #f1eeee;
+}
+.header{
+    background-color: #F0FFF0;
+
+}
+.navbar-brand img{
+    width: 200px
+}
+.sign-in-button{
+    background-color: #21B573;
+    padding: 5px 20px;
+    border-radius: 33px;
+    color: white;
+}
+.sign-in-button a{
+    color: white !important;
+}
+.illustration{
+    max-width: 100%;
+}
+.wrapper{
+    margin-top: 150px;
+}
+.red{
+    color: red;
+}
+h1{
+    margin: 35px 0;
+    font-size: 50px;
+    color: black;
+    font-weight: 700;
+}
+.gre-box{
+    color: #21B573;
+}
+p{
+    color:#6C6B6B;
+}
+.buy-now-button{
+    text-decoration: none;
+    background-color: #21B573;
+    color: #ffffff;
+    border: none;
+    border-radius: 33px;
+    padding: 9px 25px;
+    margin: 20px 0;
+}
+.icon{
+    width: 100px;
+    padding: 25px;
+}
+.box{
+    background-color: #F8FFFB;
+    height: 200px;
+}
+.activ{
+    background-color: white;
+    box-shadow: 5px 5px 30px lightgrey;
+}
+.box:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+h3{
+    color: #413960;
+    font-weight: 500;
+}
+h2{
+    text-align: center;
+    margin-bottom: 80px;
+    font-weight: 700;
+}
+.card-img-top{
+    padding: 20px;
+}
+.icons-course{
+    width: 15px;
+}
+.start-p{
+    margin: 15px 5px;
+    font-size: 14px;
+}
+.course{
+    margin-left: 80px;
+}
+.card:hover{
+    border: none;
+    box-shadow: 5px 5px 30px lightgrey;
+    background-color: white;
+}
+.testimonial img{
+    width: 130px;
+}
+.wrap{
+    width: 550px;
+    margin-left: 50px;
+}
+footer{
+    background-color: black;
+    position: relative;
+}
+.footer-section ul li{
+    list-style: none;
+    color: white;
+    margin: 0;
+}
+.courses-li{
+    
+    font-size: 22px;
+    font-weight: 700;
+}
+.footer-p{
+    color: white;
+}
